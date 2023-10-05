@@ -1,0 +1,806 @@
+
+main{
+    height: 745vh;
+}
+
+.head-champ{
+    position: relative;
+    top: 30px;
+
+    .right-champ{
+
+        .adress{
+        direction: rtl;
+        padding: 10px 0px;
+        h1{
+            font-size: 24px;
+            line-height: 21px;
+            font-weight: 700;
+        }
+    }
+    
+    .Continental{
+
+        .Continental-head{
+            direction: rtl;
+            background: #000;
+            padding: 23px 11px;
+            position: relative;
+            border-radius: 9px;
+            margin-bottom: 21px;
+
+            p{
+                color: #fff;
+                position: absolute;
+                top: 7px;
+                font-size: 19px;
+            }
+        }
+        .continintal-row{
+            direction: rtl;
+            }
+        }
+        .continintal-card{
+            position: relative;
+            top: 10px;
+
+            .continintal-leage{
+                .card{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 20px 0px;
+                    width: 100%;
+                    margin-bottom: 22px;
+                    &:hover{
+                        cursor: pointer;
+                    }
+                    img{
+                        width: 70px;
+                        height: 70px;
+                    }
+
+                    .leage-name{
+                        text-decoration: none;
+                        color: #000;
+                        margin-top: 12px;
+                        font-weight: 500;
+                        font-size: 13px;
+                        text-align: center;
+                        transition: .2s all;
+                        height: 5vh;
+                        width: 100%;
+                        &:hover{      
+                            color: var(--button-color) ;
+                        }
+
+                    }
+                }
+            }
+
+        }
+
+
+
+
+        .Continental22{
+            position: relative;
+            top: 22px;
+            .Continental-head2{
+                direction: rtl;
+                background: #000;
+                padding: 23px 11px;
+                position: relative;
+                border-radius: 9px;
+                margin-bottom: 21px;
+
+                p{
+                    color: #fff;
+                    position: absolute;
+                    top: 7px;
+                    font-size: 19px;
+                }
+            }
+            .continintal-row2{
+                direction: rtl;
+                }
+            }
+            .continintal-card2{
+                position: relative;
+                top: 10px;
+    
+                .continintal-leage2{
+                    .card{
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        padding: 20px 0px;
+                        width: 100%;
+                        margin-bottom: 22px;
+                        &:hover{
+                            cursor: pointer;
+                        }
+                        img{
+                            width: 70px;
+                            height: 70px;
+                        }
+    
+                        .leage-name2{
+                            text-decoration: none;
+                            color: #000;
+                            margin-top: 12px;
+                            font-weight: 500;
+                            font-size: 13px;
+                            text-align: center;
+                            transition: .2s all;
+                            height: 5vh;
+                            width: 100%;
+                            &:hover{      
+                                color: var(--button-color) ;
+                            }
+    
+                        }
+                    }
+                }
+    
+            }
+
+
+            .Continental33{
+                position: relative;
+                top: 42px;
+                .Continental-head3{
+                    direction: rtl;
+                    background: #000;
+                    padding: 23px 11px;
+                    position: relative;
+                    border-radius: 9px;
+                    margin-bottom: 21px;
+    
+                    p{
+                        color: #fff;
+                        position: absolute;
+                        top: 7px;
+                        font-size: 19px;
+                    }
+                }
+                .continintal-row3{
+                    direction: rtl;
+                    }
+                }
+                .continintal-card3{
+                    position: relative;
+                    top: 10px;
+        
+                    .continintal-leage3{
+                        .card{
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            padding: 20px 0px;
+                            width: 100%;
+                            margin-bottom: 22px;
+                            &:hover{
+                                cursor: pointer;
+                            }
+                            img{
+                                width: 70px;
+                                height: 70px;
+                            }
+        
+                            .leage-name3{
+                                text-decoration: none;
+                                color: #000;
+                                margin-top: 12px;
+                                font-weight: 500;
+                                font-size: 13px;
+                                text-align: center;
+                                transition: .2s all;
+                                height: 5vh;
+                                width: 100%;
+                                &:hover{      
+                                    color: var(--button-color) ;
+                                }
+        
+                            }
+                        }
+                    }
+        
+                }
+
+                .Continental44{
+                    position: relative;
+                    top: 60px;
+                    .Continental-head4{
+                        direction: rtl;
+                        background: #000;
+                        padding: 23px 11px;
+                        position: relative;
+                        border-radius: 9px;
+                        margin-bottom: 21px;
+        
+                        p{
+                            color: #fff;
+                            position: absolute;
+                            top: 7px;
+                            font-size: 19px;
+                        }
+                    }
+                    .continintal-row4{
+                        direction: rtl;
+                        }
+                    }
+                    .continintal-card4{
+                        position: relative;
+                        top: 10px;
+            
+                        .continintal-leage4{
+                            .card{
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                padding: 20px 0px;
+                                width: 100%;
+                                margin-bottom: 22px;
+                                &:hover{
+                                    cursor: pointer;
+                                }
+                                img{
+                                    width: 70px;
+                                    height: 70px;
+                                }
+            
+                                .leage-name4{
+                                    text-decoration: none;
+                                    color: #000;
+                                    margin-top: 12px;
+                                    font-weight: 500;
+                                    font-size: 13px;
+                                    text-align: center;
+                                    transition: .2s all;
+                                    height: 5vh;
+                                    width: 100%;
+                                    &:hover{      
+                                        color: var(--button-color) ;
+                                    }
+            
+                                }
+                            }
+                        }
+            
+                    }
+
+                    .Continental55{
+                        position: relative;
+                        top: 80px;
+                        .Continental-head5{
+                            direction: rtl;
+                            background: #000;
+                            padding: 23px 11px;
+                            position: relative;
+                            border-radius: 9px;
+                            margin-bottom: 21px;
+            
+                            p{
+                                color: #fff;
+                                position: absolute;
+                                top: 7px;
+                                font-size: 19px;
+                            }
+                        }
+                        .continintal-row5{
+                            direction: rtl;
+                            }
+                        }
+                        .continintal-card5{
+                            position: relative;
+                            top: 10px;
+                
+                            .continintal-leage5{
+                                .card{
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    padding: 20px 0px;
+                                    width: 100%;
+                                    margin-bottom: 22px;
+                                    &:hover{
+                                        cursor: pointer;
+                                    }
+                                    img{
+                                        width: 70px;
+                                        height: 70px;
+                                    }
+                
+                                    .leage-name5{
+                                        text-decoration: none;
+                                        color: #000;
+                                        margin-top: 12px;
+                                        font-weight: 500;
+                                        font-size: 13px;
+                                        text-align: center;
+                                        transition: .2s all;
+                                        height: 5vh;
+                                        width: 100%;
+                                        &:hover{      
+                                            color: var(--button-color) ;
+                                        }
+                
+                                    }
+                                }
+                            }
+                
+                        }
+        .last-news{
+            background: #fff;
+            position: relative;
+            top: 100px;
+            border-radius: 9px;
+            .head-name{
+                position: relative;
+                display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+                p{
+                    position: relative;
+                    top: 7px;
+                    font-size: 20px;
+                    font-weight: 600;
+                }
+                a{
+                    text-decoration: none;
+                    background: var(--button-color);
+                    padding: 5px 13px;
+                    border-radius: 6px;
+                    color: #fff;
+                }
+            }
+hr{
+    position: relative;
+    top: -10px;
+}
+            .lllast-news{
+            
+                .all{
+                    height: 141px;
+
+                }
+
+            .item-news{
+                .news-card{
+                    height: 38vh;
+                    position: relative;
+                    border-radius: 8px;
+                    &:hover img{
+                        cursor: pointer;
+                    }
+                    &:hover p{
+                        color: var(--button-color);
+                        cursor: pointer;
+                    }
+                }
+                img{
+                    width: 100%;
+                    border-radius: 8px 8px 0px 0px;
+                    transition: .5s all;
+                    &:hover{
+                        filter: brightness(108%) contrast(108%);
+                        -webkit-filter: brightness(108%) contrast(108%);
+                    }
+                }
+                .custom{
+                    font-size: 14px;
+                    font-weight: 500;
+                    position: absolute;
+                    top: 153px;
+                    color: var(--button-color);
+                    right: 11px;
+                }
+                .letter-text{
+                    position: absolute;
+                    top: 185px;
+                    height: 93px;
+                    direction: rtl;
+                    right: 10px;
+                    font-size: 14px;
+                }
+
+            }
+            
+            
+            }
+
+
+
+
+
+        }
+
+
+
+        .video-news{
+            background: #fff;
+            position: relative;
+            top: 137px;
+            border-radius: 9px;
+            svg{
+                position: absolute;
+                background: #000000ad;
+                color: #fff;
+                padding: w;
+                width: 39px;
+                height: 31px;
+                border-radius: 9px 0 0;
+                padding: 3px 8px;
+            }
+            .head-name{
+                position: relative;
+                display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 12px;
+                p{
+                    position: relative;
+                    top: 7px;
+                    font-size: 20px;
+                    font-weight: 600;
+                }
+                a{
+                    text-decoration: none;
+                    background: var(--button-color);
+                    padding: 5px 13px;
+                    border-radius: 6px;
+                    color: #fff;
+                }
+            }
+hr{
+    position: relative;
+    top: -10px;
+}
+            .vvideo-news{
+            
+                .all{
+                    height: 141px;
+
+                }
+
+            .item-news{
+                .news-card{
+                    height: 38vh;
+                    position: relative;
+                    border-radius: 8px;
+                    &:hover img{
+                        cursor: pointer;
+                    }
+                    &:hover p{
+                        color: var(--button-color);
+                        cursor: pointer;
+                    }
+                }
+                img{
+                    width: 100%;
+                    border-radius: 8px 8px 0px 0px;
+                    transition: .5s all;
+                    &:hover{
+                        filter: brightness(108%) contrast(108%);
+                        -webkit-filter: brightness(108%) contrast(108%);
+                    }
+                }
+                .custom{
+                    font-size: 14px;
+                    font-weight: 500;
+                    position: absolute;
+                    top: 153px;
+                    color: var(--button-color);
+                    right: 11px;
+                }
+                .letter-text{
+                    position: absolute;
+                    top: 185px;
+                    height: 93px;
+                    direction: rtl;
+                    right: 10px;
+                    font-size: 14px;
+                }
+
+            }
+            
+            
+            }
+
+
+
+
+
+        }
+
+    }
+
+
+    
+    .left-champ{
+        display: flex;
+        justify-content: center;
+        .newss{
+            background: #fff;
+            direction: rtl;
+            padding: 13px 14px;
+            border-radius: 9px;
+            width: 81%;
+            height: 69vh;
+    position: relative;
+    top: 110px;
+            border-top: 5px solid var(--button-color);
+            h1{
+                font-size: 20px;
+                font-weight: 900;
+            }
+            ul{
+                width: 100%;
+                padding: 0;
+            }
+            li{
+                list-style: none;
+                a{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    text-decoration: none;
+                    transition: .2s all;
+                    &:hover p{
+                        color: var(--button-color);
+                    }
+                }
+                .num{
+                    transition: .2s all;
+                    font-size: 28px;
+                    padding: 0 13px;
+                    background: #e8e8e8;
+    font-family: Arial;
+    color: #0277bd;
+                }
+                .text-news{
+                    transition: .2s all;
+                    font-size: 13px;
+                    font-weight: 800;
+    line-height: 33px;
+    margin-right: 10px;
+    width: 100%;
+    color: #000;
+                }
+            }
+        }
+    }
+
+@media screen and (max-width: 1200px) {
+    .left-champ{
+        width: 100%;
+    }
+    .champ-roow{
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .head-champ .right-champ .last-news .lllast-news .item-news .letter-text {
+        height: 93px;
+        font-size: 13px;
+    }
+            .custom {
+        font-size: 14px;
+        font-weight: 500;
+        position: absolute;
+        top: 104px;
+        color: var(--button-color);
+        font-size: 12px;
+    }
+
+
+
+
+
+
+
+
+}
+@media screen and (max-width: 991px) {
+    .news-card{
+        height: 42vh;
+        .letter-text {
+    
+            margin-top: 45px;
+    
+        }
+
+        .left-champ{
+            margin-top: 31px;
+        }
+
+        .custom{
+            margin-top: 35px;
+    
+        }
+    }
+    
+}
+@media screen and (max-width: 767px) {
+    .news-card{
+        margin-bottom: 155px;
+        .letter-text {
+    
+            margin-top: 154px;
+            font-size: 18px;    
+        }
+        .custom{
+            margin-top: 121px;
+            font-size: 16px;    
+        }
+    }
+    
+}
+@media screen and (max-width: 394px) {
+    .news-card{
+        height: 29vh;
+        margin: 0;
+        .letter-text {
+    
+            margin-top: 106px;
+            font-size: 18px;    
+        }
+        .custom{
+            margin-top: 71px;
+            font-size: 16px;    
+        }
+    }
+    
+}
+@media screen and (max-width: 387px) {
+    .news-card{
+        margin-bottom: 92px;
+
+
+    }
+    
+}
+}
+
+@media screen and (max-width:1200px) {
+    .left-champ{
+        margin-top: 69px;
+
+    }
+    main{
+        height: 832vh;
+    }
+}
+@media screen and (max-width:1184px) {
+
+    .right-champ{
+        margin-top: 40px;
+    }
+    
+}
+
+@media screen and (max-width:765px) {
+
+
+
+    .left-champ{
+position: relative;
+top: 211rem;
+    }
+    main {
+        height: 2599vh;
+    }
+    
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    main {
+        height: 1260vh;
+    }
+} 
+
+// footer
+
+
+footer{
+    background: #000;
+    height: 40vh;
+    width: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 199px;
+    left: 190px;
+ul{
+    margin-bottom: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 18px;
+
+}
+li{
+    list-style: none;
+    padding: 19px 13px;
+    transition: 0.2s all;
+        }
+svg{
+    color: #fff;
+    text-decoration: none;
+    font-size: 23px;
+
+}
+
+hr{
+    width: 94%;
+}
+
+.logo{
+    margin-bottom: 30px;
+
+    img{
+        width: auto;
+        height: 40px;
+    }
+}
+}
+.footer-links{
+    // margin-bottom: 30px;
+
+    a{
+        text-decoration: none;
+        color: #fff;
+        padding: 0 18px;
+        border-right: 1px solid rgb(85, 77, 77);
+        transition: .5s all;
+    .linkkk{
+        border: none;
+    }
+    &:hover{
+        color: var(--button-color);
+    }
+    }
+
+
+
+
+}
+
+.end{
+    padding: 0 27px;
+    display: flex;
+    justify-content: space-between;
+width: 100%;
+.left{
+    align-items: flex-start;
+    img{
+        width: 20px;
+        
+    }
+    p{
+        font-size: 14px;
+        color:#fff;
+    }
+}
+.right{
+    a{
+        text-decoration: none;
+        color: #fff;
+        margin-right: 18px;
+    }
+}
+}
+@media screen and (max-width:991px) {
+    footer{
+        display: none;
+    }
+    
+}
+

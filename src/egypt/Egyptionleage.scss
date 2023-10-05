@@ -1,0 +1,289 @@
+
+
+.egyption-league{
+    height: 784vh;
+}
+@media screen and (max-width:991px) {
+    .egyption-league{
+        height: 1306vh;
+
+    }
+
+
+    .video-news {
+
+        height: 283vh;
+    }
+
+    .video-news .vvideo-news .item-news .news-card {
+        margin-bottom: 46px;
+    }
+
+    .last-news .lllast-news .item-news .news-card {
+        margin-bottom: 79px;
+    }
+ .reals .last-row{
+    height: 167vh;
+
+}
+}
+@media screen and (max-width: 767px){
+.egyption-league {
+    height: 2332vh;
+}
+.reals {
+    background: #fff;
+    position: relative;
+    top: 100px;
+    border-radius: 9px;
+    margin-bottom: 6rem;
+}
+.reals .last-row {
+    height: 334vh;
+}
+
+.droup-table{
+    .chaildd{
+        display: none;
+    }
+
+}
+.rang-team .card .droup-table table td {
+    left: -10px;
+
+}
+}
+
+
+@media screen and (max-width:456px) {
+    
+
+    .rang-team .card .droup-table table tr .custom-rang td {
+        font-weight: 500;
+        font-size: 11px;
+    }
+    .rang-team .card .droup-table table tr .custom-rang img {
+        width: 21px;
+    }
+    .rang-team .card .droup-table table th {
+        padding: 2px 5px;
+        font-size: 12px;
+        font-weight: 100;
+    }
+}
+
+.match-time {
+    height: 82vh;
+}
+
+.new-team .team-cardd .right .card p {
+    height: 14vh;
+}
+
+
+
+// reals
+.reals{
+    background: #fff;
+    position: relative;
+    top: 100px;
+    border-radius: 9px;
+    .head-name{
+        position: relative;
+        display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 6px 12px;
+        p{
+            position: relative;
+            top: 7px;
+            font-size: 20px;
+            font-weight: 600;
+        }
+        a{
+            text-decoration: none;
+            background: var(--button-color);
+            padding: 5px 13px;
+            border-radius: 6px;
+            color: #fff;
+        }
+    }
+hr{
+position: relative;
+top: -10px;
+}
+svg{
+    position: absolute;
+    background: #000000ad;
+    color: #fff;
+    padding: w;
+    width: 39px;
+    height: 31px;
+    border-radius: 9px 0 0;
+    padding: 3px 8px;
+}
+    .reals-news{
+    
+        .all{
+            height: 141px;
+
+        }
+
+    .item-news{
+        .news-card{
+            height: 76vh;
+            position: relative;
+            border-radius: 8px;
+            &:hover img{
+                cursor: pointer;
+            }
+            &:hover .letter-text{
+                color: var(--button-color);
+                cursor: pointer;
+            }
+        }
+        img{
+            width: 100%;
+            border-radius: 8px 8px 0px 0px;
+            transition: .5s all;
+            height: 56vh;
+            &:hover{
+                filter: brightness(108%) contrast(108%);
+                -webkit-filter: brightness(108%) contrast(108%);
+            }
+        }
+        .custom{
+            font-size: 12px;
+            font-weight: 500;
+            position: absolute;
+            top: 492px;
+            color: #b9b9b9;
+            right: 11px;
+        }
+        .letter-text{
+            position: absolute;
+            top: 416px;
+            height: 93px;
+            direction: rtl;
+            right: 10px;
+            font-size: 17px;
+        }
+
+    }
+    
+    
+    }
+
+
+
+
+
+}
+
+// clubs rang
+.statticticss {
+    margin-top: 195px;
+}
+.rang-team{
+    position: relative;
+    top: 136px;
+
+    .heaaad{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row-reverse;
+        align-items: baseline;
+        a{
+            text-decoration: none;
+            background:var(--button-color);
+            color: #fff;
+            padding: 3px 8px;
+            border-radius: 6px;
+        }
+        h1{
+            font-size: 21px;
+            font-weight: 500;
+        }
+    }
+    .card{
+        position: relative;
+        padding: 0 0 21px 0px;
+
+    
+    
+        .droup-table{
+    
+
+    
+            table{
+        width: 100%;
+    }
+            table th {
+                padding: 2px 5px;
+                font-size: 14px;
+                font-weight: 100;
+    
+            }
+            table hr{
+                width: 100%;
+                position: absolute;
+            }
+            table thead tr{
+            background: #000;
+            color: #fff;
+            }
+            tbody tr td{
+                &:nth-child(1){
+                    font-weight: 800;
+                    font-size: 17px;
+
+                }
+            }
+            table tr{
+                .club-ra{
+                    margin-right: 17px;
+    
+                }
+                .custom-rang{
+                    position: relative;
+        display: flex;
+        justify-content: end;
+        right: 0;
+                
+        td{
+            font-weight: 500;
+            font-size: 15px;
+        }
+        img{
+            width: 26px;
+        }
+               }
+                
+            }
+            table td {
+            // .custom-rang{
+            //     padding: 0;
+            // }
+            text-align: center;
+            padding: 19px 0 0 23px;
+            position: relative;
+            right: 30px;
+            font-size: 16px;
+            
+            }
+    
+        }
+    
+    }
+}
+
+// statictics
+.sctatics-contt .static-card .card h1 span{
+    font-size: 28px;
+
+
+}
+
+
+// news responsev
+
