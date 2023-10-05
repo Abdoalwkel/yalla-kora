@@ -1,7 +1,7 @@
 
 
 .egyption-league{
-    height: 784vh;
+    height: 807vh;
 }
 @media screen and (max-width:991px) {
     .egyption-league{
@@ -27,16 +27,28 @@
 
 }
 }
+@media screen and (max-width: 390px){
+.reals{
+height: 294vh;
+    }
+
+    .rang-team .card {
+    padding: 0 0 21px;
+    position: relative;
+    width: 118%;
+    right: 26px;
+}
+    {
 @media screen and (max-width: 767px){
 .egyption-league {
-    height: 2332vh;
+    height: 2531vh;
 }
 .reals {
     background: #fff;
     position: relative;
     top: 100px;
     border-radius: 9px;
-    margin-bottom: 6rem;
+    margin-bottom: 109rem;
 }
 .reals .last-row {
     height: 334vh;
@@ -88,6 +100,7 @@
     position: relative;
     top: 100px;
     border-radius: 9px;
+        height: 96vh;
     .head-name{
         position: relative;
         display: flex;
@@ -156,7 +169,7 @@ svg{
             font-size: 12px;
             font-weight: 500;
             position: absolute;
-            top: 492px;
+            top: 361px;
             color: #b9b9b9;
             right: 11px;
         }
