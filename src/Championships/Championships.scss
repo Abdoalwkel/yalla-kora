@@ -1,6 +1,6 @@
 
 main{
-    height: 745vh;
+    height: 774vh;
 }
 
 .head-champ{
@@ -393,17 +393,17 @@ hr{
                     font-size: 14px;
                     font-weight: 500;
                     position: absolute;
-                    top: 153px;
+                    top: 130px;
                     color: var(--button-color);
                     right: 11px;
                 }
                 .letter-text{
-                    position: absolute;
-                    top: 185px;
-                    height: 93px;
-                    direction: rtl;
-                    right: 10px;
-                    font-size: 14px;
+    direction: rtl;
+    font-size: 13px;
+    height: 93px;
+    position: absolute;
+    right: 10px;
+    top: 157px;
                 }
 
             }
@@ -491,17 +491,17 @@ hr{
                     font-size: 14px;
                     font-weight: 500;
                     position: absolute;
-                    top: 153px;
+                    top: 130px;
                     color: var(--button-color);
                     right: 11px;
                 }
                 .letter-text{
-                    position: absolute;
-                    top: 185px;
-                    height: 93px;
-                    direction: rtl;
-                    right: 10px;
-                    font-size: 14px;
+    direction: rtl;
+    font-size: 13px;
+    height: 93px;
+    position: absolute;
+    right: 10px;
+    top: 158px;
                 }
 
             }
@@ -528,7 +528,7 @@ hr{
             padding: 13px 14px;
             border-radius: 9px;
             width: 81%;
-            height: 69vh;
+            height: 70vh;
     position: relative;
     top: 110px;
             border-top: 5px solid var(--button-color);
@@ -562,7 +562,7 @@ hr{
                 }
                 .text-news{
                     transition: .2s all;
-                    font-size: 13px;
+                    font-size: 12px;
                     font-weight: 800;
     line-height: 33px;
     margin-right: 10px;
@@ -609,7 +609,7 @@ hr{
         height: 42vh;
         .letter-text {
     
-            margin-top: 45px;
+            margin-top: 62px;
     
         }
 
@@ -618,7 +618,7 @@ hr{
         }
 
         .custom{
-            margin-top: 35px;
+            margin-top: 50px;
     
         }
     }
@@ -629,11 +629,11 @@ hr{
         margin-bottom: 155px;
         .letter-text {
     
-            margin-top: 154px;
+            margin-top: 159px;
             font-size: 18px;    
         }
         .custom{
-            margin-top: 121px;
+            margin-top: 148px;
             font-size: 16px;    
         }
     }
@@ -691,7 +691,7 @@ position: relative;
 top: 211rem;
     }
     main {
-        height: 2599vh;
+        height: 2611vh;
     }
     
 }
