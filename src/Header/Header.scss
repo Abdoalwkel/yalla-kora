@@ -2412,18 +2412,25 @@ left: 64px;
     left: 40px;
     width: 78.9%;
 }
-@media screen and (max-width: 472px){
 
+@media screen and (max-width: 472px){
+.right svg {
+    font-size: 19px;
+}
 nav {
     width: 101%;
 }
 .slickk {
     position: relative;
-    right: 91px;
+    left: -97px;
+}
+
+    .header-link {
+    left: -2px;
 }
 .header-link .all-matches {
     left: 24px;
-    width: 82%;
+    width: 82.8%;
 
 }
 }
