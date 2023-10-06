@@ -228,13 +228,25 @@ p{
 }
     
 }
+
+@media screen and (max-width: 767px){
+.slickk {
+
+    left: -51px;
+}
+    .header-link .all-matches {
+    left: 82px;
+    top: 209px;
+    width: 76.6%;
+}
+}
 @media screen and (max-width: 944px) {
 
 
     .slickk {
-        position: relative;
-        right: 21px;
-        top: 13px;
+    top: 7px;
+    left: -2px;
+    width: 98.5%;
     }
     .header-link .right-link {
         left: 4px;
@@ -2344,15 +2356,15 @@ width: 100%;
 @media screen and (max-width:1185px) {
     .slickk{
         position: relative;
-        right: 3px;
+        right: 11px;
     }
     .header-link .all-matches {
-    border-radius: 0;
-    left: 81px;
-    padding: 5px 0;
+border-radius: 0;
+    left: 131px;
+    padding: 7px 0;
     text-align: center;
-    top: 210px;
-    width: 78%;
+    top: 209px;
+    width: 75.3%;
     z-index: 1;
     }
     
@@ -2375,7 +2387,7 @@ width: 100%;
 @media screen and (max-width: 1074px){
 .slickk {
     position: relative;
-    right: 21px;
+    right: 4px;
 }
 }
 @media screen and (max-width: 710px){
@@ -2386,14 +2398,19 @@ width: 100%;
 }
 @media screen and (max-width: 658px){
 .header-link .all-matches {
-    left: 45px;
-    width: 78%;
+left: 64px;
+    width: 78.6%;
 }
 .slickk {
     position: relative;
-    right: 70px;
+    left: -76px;
 }
 
+}
+@media screen and (max-width: 549px)
+.header-link .all-matches {
+    left: 40px;
+    width: 78.9%;
 }
 @media screen and (max-width: 472px){
 
