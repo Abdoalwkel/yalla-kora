@@ -277,23 +277,23 @@ search &&(
 
 <div className="multe-link">
   <ul>
-    <li><a href="">المباريات</a></li>
+    <li> <Link to="/">المباريات</Link></li>
     <hr className='line' />
-    <li><a href="">الاخبار</a></li>
+    <li>      <Link to="/News">الاخبار</Link></li>
     <hr className='line' />
-    <li><a href="">مالتيميديا</a></li>
+    <li>      <Link to="/" > مالتيميديا </Link></li>
     <hr className='line' />
-    <li><a href="">دوريات وبطولات</a></li>
+    <li>      <Link to="/Championships"> دوريات و بطولات </Link></li>
     <hr className='line' />
     <li><a href="">رياضات اخرى</a></li>
     <hr className='line' />
-    <li><a href="">اخر الانتقالات</a></li>
+    <li>      <Link to="/" >اخر الانتقالات</Link></li>
     <hr className='line' />
     <li><a href="">المحترفون</a></li>
     <hr className='line' />
-    <li><a href="">Esports</a></li>
+    <li>  <Link to="/"> esports</Link></li>
     <hr className='line' />
-    <li><a href="">ريلز</a></li>
+    <li> <Link to="/">ريلز</Link></li>
   </ul>
 </div>
 
