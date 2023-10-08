@@ -2430,8 +2430,21 @@ nav {
     left: -2px;
 }
 .header-link .all-matches {
-    left: 24px;
-    width: 82.8%;
+left: 38px;
+    width: 81%;
 
+}
+}
+@media screen and (max-width: 406px){
+.header-link .all-matches {
+    left: 38px;
+    width: 82.3%;
+}
+}
+
+@media screen and (max-width: 380px){
+.header-link .all-matches {
+    left: 38px;
+    width: 83.8%;
 }
 }
